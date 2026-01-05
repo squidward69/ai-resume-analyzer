@@ -2,7 +2,7 @@
 
 > Smart, instant feedback for your dream job. Get AI-powered resume analysis, ATS scoring, and personalized improvement tips in seconds.
 
-**🔗 Live Demo:** [https://your-app.puter.app](https://your-app.puter.app)
+**🔗 Live Demo:** [https://resumeiq-eight.vercel.app/](https://resumeiq-eight.vercel.app/)
 
 [![React](https://img.shields.io/badge/React-18.x-61dafb?logo=react)](https://reactjs.org/) 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178c6?logo=typescript)](https://www.typescriptlang.org/) 
@@ -232,7 +232,7 @@ See [Issues](https://github.com/squidward69/ai-resume-analyzer/issues) for a com
 
 If you found this helpful, give it a ⭐️!
 
-[Report Bug](https://github.com/squidward69/ai-resume-analyzer/issues) · [Request Feature](https://github.com/squidward69/ai-resume-analyzer/issues) · [View Demo](https://your-demo-url.vercel.app)
+[Report Bug](https://github.com/squidward69/ai-resume-analyzer/issues) · [Request Feature](https://github.com/squidward69/ai-resume-analyzer/issues) · [View Demo](https://resumeiq-eight.vercel.app/)
 
 </div>
 
